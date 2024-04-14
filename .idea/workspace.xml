@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1110596a-331c-4eaa-89d0-fe3b93769c0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Data/Model/Contacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Data/Model/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Data/Repositories/ContactRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Data/Repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Requests/CreateContactRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Requests/DeleteContactRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Requests/FindContactRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Requests/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Requests/LogoutRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Requests/RegisterUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Requests/UpdateContactRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Responses/ApiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Responses/CreateContactResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Responses/DeleteContactReponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Responses/FindContactResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Responses/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Responses/LogoutResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Responses/RegisterUserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Dtos/Responses/UpdateContactResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Exception/ContactNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Exception/LoginException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Exception/SuperContactException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Service/ContactService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Service/ContactServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/africa/semicolon/Service/UserServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2f6VmvLqKeHC1HACAfuKKtoEVfS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.Main.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/fitz/IdeaProjects/ContactManagement/src/main/java/org/africa/semicolon/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.africa.semicolon.Dtos.Requests" />
+      <recent name="org.africa.semicolon.Dtos.Responses" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Main">
+    <configuration name="generated-requests | #23" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="23" requestIdentifier="#23" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ContactManagement" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.africa.semicolon.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.africa.semicolon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main" />
+        <item itemvalue="HTTP Request.generated-requests | #23" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1110596a-331c-4eaa-89d0-fe3b93769c0a" name="Changes" comment="" />
+      <created>1713121681329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713121681329</updated>
+      <workItem from="1713121682499" duration="11433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
